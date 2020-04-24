@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'Pylon'
+}
+item {
+    id: 2
+    name: 'Ring'
+}
